@@ -36,7 +36,7 @@ This project helped reinforce:
 ## ▶️ Running the Game
 
 ```bash
-git clone https://github.com/Nyx9303/snake-terminal-game.git
+git clone https://github.com/Nyx9303/Snake-Game-In-Terminal.git
 cd snake-terminal-game
 python3 snake_game.py
 ```
