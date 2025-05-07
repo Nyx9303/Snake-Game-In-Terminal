@@ -1,32 +1,32 @@
-# 🐍 Terminal Snake Game (Python + Curses)
+# 🐍 Terminal Snake Game (Python with Curses)
 
-A classic Snake game built using Python's `curses` library — playable right in your terminal!
-
----
-
-## 🎮 Features
-
-- Snake head (`@`) and body (`O`) rendered in green  
-- Food (`*`) rendered in red  
-- Real-time keyboard controls (arrow keys)  
-- Live score tracking  
-- Game over screen with final score  
-- Adjustable speed via `time.sleep()`  
-- Clean code and simple structure for easy customization
+An old-school Snake game created utilizing Python's `curses` module — playable directly in your terminal!
 
 ---
 
-## 🛠️ Requirements
+## 🎮 Characteristics
 
-- Python 3.x
-- Works best in Unix-like terminals (Linux/macOS)
-- For Windows, run via Windows Terminal or use WSL for better compatibility
+- Display of a green snake head (`@`) and body (`O`)  
+- Red-colored food item (`*`)  
+- Responsive keyboard controls (arrow keys)  
+- Continuous score monitoring  
+- End-of-game display showing the final score  
+- Adjust speed using `time.sleep()`  
+- Neatly organized code with a straightforward layout for effortless modifications
 
 ---
 
-## ▶️ How to Run
+## 🛠️ Prerequisites
+
+- Python version 3.x
+- Most compatible with Unix-like terminals (Linux/macOS)
+- For Windows, execute via Windows Terminal or utilize WSL for enhanced compatibility
+
+---
+
+## ▶️ Running the Game
 
 ```bash
 git clone https://github.com/yourusername/snake-terminal-game.git
 cd snake-terminal-game
-python3 snake.py
+python3 snake.py```
