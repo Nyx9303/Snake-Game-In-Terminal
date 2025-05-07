@@ -24,6 +24,15 @@ An old-school Snake game created utilizing Python's `curses` module — playable
 
 ---
 
+## 🧠 Learnings
+This project helped reinforce:
+- Terminal UIs with curses
+- Game loop logic
+- Real-time keyboard input handling
+- Collision detection and screen boundary logic
+
+---
+
 ## ▶️ Running the Game
 
 ```bash
@@ -34,10 +43,4 @@ python3 snake.py
 
 ---
 
-## 🧠 Learnings
-This project helped reinforce:
-- Terminal UIs with curses
-- Game loop logic
-- Real-time keyboard input handling
-- Collision detection and screen boundary logic
 
