@@ -29,16 +29,15 @@ An old-school Snake game created utilizing Python's `curses` module — playable
 ```bash
 git clone https://github.com/yourusername/snake-terminal-game.git
 cd snake-terminal-game
-python3 snake.py```
+python3 snake.py
+```
 
-🧠 Learnings
+---
+
+## 🧠 Learnings
 This project helped reinforce:
-
-Terminal UIs with curses
-
-Game loop logic
-
-Real-time keyboard input handling
-
-Collision detection and screen boundary logic
+- Terminal UIs with curses
+- Game loop logic
+- Real-time keyboard input handling
+- Collision detection and screen boundary logic
 
